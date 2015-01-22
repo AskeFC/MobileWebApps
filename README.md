@@ -1,6 +1,6 @@
 # Mobile Web Apps
 #### ([GPL 2.0](https://www.gnu.org/licenses/gpl-2.0.html))
-Assignments from 6 weeks Mobile WebApps course written in Html5, Css3, jQuery Mobile, Jquery & JavaScript.
+Assignments from 6 weeks Mobile WebApps course developed in Html5, Css3, [jQuery Mobile](https://jquerymobile.com), [jQuery](https://jquery.com) & JavaScript.
 
 <br>
 
